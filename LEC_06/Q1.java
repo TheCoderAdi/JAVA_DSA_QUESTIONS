@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class Q1 {
   public static void main(String[] args) {
     // Divide Pepole into 3 age groups
     // -> children > Below 12
