@@ -12,6 +12,7 @@ public class Q3 {
                 break;
             }
         }
+        
         sc.close();
     }
 }
