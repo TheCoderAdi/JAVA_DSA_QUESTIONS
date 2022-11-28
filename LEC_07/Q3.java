@@ -10,9 +10,6 @@ public class Q3 {
             if (i % 5 == 0 && i % 7 == 0) {
                 System.out.println("The first multiple in the given range is : " + i);
                 break;
-            } else {
-                System.out.println("There is no number in the range");
-                break;
             }
         }
         sc.close();
